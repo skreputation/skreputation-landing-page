@@ -12,7 +12,7 @@ const Footer = () => {
             </h2>
           </a>
           <div className='' >
-            <img src="/logo_sk.png" style={{height:200}} />
+            <img src="/logo_name.png" style={{height:200}} />
         </div>
         </main>
       </div>
